@@ -25,7 +25,7 @@ Step7: Compare the graphs and hence we obtained the linear regression for the gi
 Step8: Stop the program.
 
 ## Program:
-```
+
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: Pranavesh Saikumar
@@ -86,7 +86,7 @@ print('MAE = ',mae)
 
 rmse=np.sqrt(mse)
 print('RMSE = ',rmse)
-```
+
 
 ## Output:
 
