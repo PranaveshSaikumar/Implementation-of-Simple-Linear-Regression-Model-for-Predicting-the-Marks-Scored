@@ -90,6 +90,8 @@ df.head():
 
 df.tail();
 
+
+
 ![image](https://github.com/user-attachments/assets/9da1756c-cf2f-4aed-8aa0-fcb10b176554)
 
 X:
@@ -105,6 +107,8 @@ Y_pred:
 ![image](https://github.com/user-attachments/assets/0a74d7b0-be88-4274-94bf-936d9879adf2)
 
 Y_test:
+
+
 
 ![image](https://github.com/user-attachments/assets/88a247fb-1711-4c1c-9a85-e3f21b1531c3)
 
