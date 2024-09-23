@@ -60,10 +60,6 @@ Y_pred
 Y_test
 
 plt.scatter(X_train,Y_train,color="orange")
-
-
-
-
 plt.plot(X_train,regressor.predict(X_train),color="red")
 plt.title("Hours vs Scores(Training Set)")
 plt.xlabel("Hours")
@@ -86,7 +82,7 @@ print('MAE = ',mae)
 rmse=np.sqrt(mse)
 print('RMSE = ',rmse)
 
-
+&ensp
 
 
 ## Output:
