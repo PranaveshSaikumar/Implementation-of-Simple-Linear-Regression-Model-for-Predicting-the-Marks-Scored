@@ -89,7 +89,7 @@ df.head():
 ![image](https://github.com/user-attachments/assets/0fc6ed3c-a3cc-48e2-9402-e394d0bef64e)
 
 df.tail();
-<br>
+<br><br>
 ![image](https://github.com/user-attachments/assets/9da1756c-cf2f-4aed-8aa0-fcb10b176554)
 
 X:
@@ -105,7 +105,7 @@ Y_pred:
 ![image](https://github.com/user-attachments/assets/0a74d7b0-be88-4274-94bf-936d9879adf2)
 
 Y_test:
-<br>
+
 ![image](https://github.com/user-attachments/assets/88a247fb-1711-4c1c-9a85-e3f21b1531c3)
 
 Training Set:
@@ -113,7 +113,7 @@ Training Set:
 ![image](https://github.com/user-attachments/assets/3d0eea02-b7dd-48e6-a85a-070c7b754ed0)
 
 Test Set:
-
+<br><br>
 ![image](https://github.com/user-attachments/assets/b080e329-73f9-4594-bdf1-045b02f67201)
 
 ![image](https://github.com/user-attachments/assets/69bf284c-782e-44ee-b65c-5e75b1a13467)
