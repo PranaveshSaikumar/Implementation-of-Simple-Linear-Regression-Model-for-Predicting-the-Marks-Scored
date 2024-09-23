@@ -3,9 +3,15 @@
 ## AIM:
 To write a program to predict the marks scored by a student using the simple linear regression model.
 
+
+
+
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
+
+
+
 
 ## Algorithm
 Step1: Start the program.
@@ -23,6 +29,10 @@ Step6: Predict the regression for marks by using the representation of the graph
 Step7: Compare the graphs and hence we obtained the linear regression for the given datas.
 
 Step8: Stop the program.
+
+
+
+
 
 ## Program:
 
