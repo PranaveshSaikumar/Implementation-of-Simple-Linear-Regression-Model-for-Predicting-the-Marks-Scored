@@ -87,7 +87,7 @@ print('RMSE = ',rmse)
 df.head():
 
 ![image](https://github.com/user-attachments/assets/0fc6ed3c-a3cc-48e2-9402-e394d0bef64e)
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 df.tail();
 
 
