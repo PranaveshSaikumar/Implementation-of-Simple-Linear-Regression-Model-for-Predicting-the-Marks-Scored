@@ -56,7 +56,10 @@ regressor.fit(X_train,Y_train)
 Y_pred=regressor.predict(X_test)
 
 Y_pred
-<br><br><br>
+
+
+
+
 Y_test
 
 plt.scatter(X_train,Y_train,color="orange")
