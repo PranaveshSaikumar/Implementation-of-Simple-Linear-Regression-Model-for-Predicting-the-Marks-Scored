@@ -103,15 +103,15 @@ Y:
 Y_pred:
 
 ![image](https://github.com/user-attachments/assets/0a74d7b0-be88-4274-94bf-936d9879adf2)
-<br><br>
+<br><br><br><br>
 Y_test:
 
 ![image](https://github.com/user-attachments/assets/88a247fb-1711-4c1c-9a85-e3f21b1531c3)
-<br><br><br><br>
+<br><br>
 Training Set:
 
 ![image](https://github.com/user-attachments/assets/3d0eea02-b7dd-48e6-a85a-070c7b754ed0)
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 Test Set:
 
 ![image](https://github.com/user-attachments/assets/b080e329-73f9-4594-bdf1-045b02f67201)
