@@ -56,7 +56,7 @@ regressor.fit(X_train,Y_train)
 Y_pred=regressor.predict(X_test)
 
 Y_pred
-
+<br><br><br>
 Y_test
 
 plt.scatter(X_train,Y_train,color="orange")
@@ -112,7 +112,7 @@ Y_test:
 Training Set:
 
 ![image](https://github.com/user-attachments/assets/3d0eea02-b7dd-48e6-a85a-070c7b754ed0)
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 Test Set:
 
 ![image](https://github.com/user-attachments/assets/b080e329-73f9-4594-bdf1-045b02f67201)
