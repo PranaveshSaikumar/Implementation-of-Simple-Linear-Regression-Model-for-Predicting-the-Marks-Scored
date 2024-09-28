@@ -87,7 +87,7 @@ print('RMSE = ',rmse)
 df.head():
 
 ![image](https://github.com/user-attachments/assets/0fc6ed3c-a3cc-48e2-9402-e394d0bef64e)
-
+<br><br><br><br><br><br>
 df.tail();
 
 
@@ -108,7 +108,7 @@ Y_pred:
 Y_test:
 
 ![image](https://github.com/user-attachments/assets/88a247fb-1711-4c1c-9a85-e3f21b1531c3)
-
+<br><br><br><br>
 Training Set:
 
 ![image](https://github.com/user-attachments/assets/3d0eea02-b7dd-48e6-a85a-070c7b754ed0)
