@@ -87,7 +87,7 @@ print('RMSE = ',rmse)
 df.head():
 
 ![image](https://github.com/user-attachments/assets/0fc6ed3c-a3cc-48e2-9402-e394d0bef64e)
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 df.tail();
 
 ![image](https://github.com/user-attachments/assets/9da1756c-cf2f-4aed-8aa0-fcb10b176554)
@@ -111,7 +111,7 @@ Y_test:
 Training Set:
 
 ![image](https://github.com/user-attachments/assets/3d0eea02-b7dd-48e6-a85a-070c7b754ed0)
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 Test Set:
 
 ![image](https://github.com/user-attachments/assets/b080e329-73f9-4594-bdf1-045b02f67201)
